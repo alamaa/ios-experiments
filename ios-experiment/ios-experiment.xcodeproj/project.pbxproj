@@ -12,6 +12,7 @@
 		41DE17231F3867A90081E3EA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 41DE17211F3867A90081E3EA /* Main.storyboard */; };
 		41DE17251F3867A90081E3EA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 41DE17241F3867A90081E3EA /* Assets.xcassets */; };
 		41DE17281F3867A90081E3EA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 41DE17261F3867A90081E3EA /* LaunchScreen.storyboard */; };
+		41DE17301F386D2A0081E3EA /* hello in Resources */ = {isa = PBXBuildFile; fileRef = 41DE172F1F386D2A0081E3EA /* hello */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		41DE17241F3867A90081E3EA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		41DE17271F3867A90081E3EA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		41DE17291F3867A90081E3EA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		41DE172F1F386D2A0081E3EA /* hello */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = hello; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				41DE17241F3867A90081E3EA /* Assets.xcassets */,
 				41DE17261F3867A90081E3EA /* LaunchScreen.storyboard */,
 				41DE17291F3867A90081E3EA /* Info.plist */,
+				41DE172F1F386D2A0081E3EA /* hello */,
 			);
 			path = "ios-experiment";
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				41DE17281F3867A90081E3EA /* LaunchScreen.storyboard in Resources */,
+				41DE17301F386D2A0081E3EA /* hello in Resources */,
 				41DE17251F3867A90081E3EA /* Assets.xcassets in Resources */,
 				41DE17231F3867A90081E3EA /* Main.storyboard in Resources */,
 			);
@@ -299,6 +303,7 @@
 				41DE172E1F3867A90081E3EA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
